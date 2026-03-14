@@ -19,7 +19,6 @@ My technology stack includes:
 - 🔭 I’m currently looking for exciting opportunities in Software Development, Data Science, and Data Engineering for an  Apprenticeship.
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
 - 📫 How to reach me: hamzaouadid@gmail.com
-- ⚡ Fun fact: Checkout my [LinkedIn Profile](https://www.linkedin.com/in/hamzaouadid/) if you are curious! 
 - 📝 [Resume](https://hamzaouadid.github.io/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamzaouadid.hamzaouadid)
