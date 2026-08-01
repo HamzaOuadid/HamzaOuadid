@@ -119,15 +119,6 @@ AI / data platform engineer with 2 years shipping production LLM systems inside 
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaOuadid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOuadid&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=100&section=footer" width="100%"/>
 </div>
