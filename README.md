@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Hamza%20Ouadid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Data%20Platform%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://theia-ltd.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=6366F1&center=true&vCenter=true&width=700&lines=Author+of+Theia+%E2%80%94+a+free+137%2C000-word+LLM+course;Building+production+RAG%2C+MCP+%26+data+retrieval+systems;Two+years+shipping+AI+platforms+in+a+regulated+enterprise" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=6366F1&center=true&vCenter=true&width=700&lines=Author+of+Theia+%E2%80%94+free%2C+zero+to+training+a+GPT+from+scratch;Building+production+RAG%2C+MCP+%26+data+retrieval+systems;Two+years+shipping+AI+platforms+in+a+regulated+enterprise" alt="Typing SVG" />
 </a>
 
 <br/>
